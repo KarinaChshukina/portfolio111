@@ -1,0 +1,122 @@
+html, body {
+    background-color: thistle ;
+}
+
+.img-fluid {    
+    float:right;
+    padding-top: 3cm;
+    object-position: 50% 50%;
+}
+
+h1 {
+    font-family: 'Raleway', sans-serif;
+    text-shadow: 2px 4px 3px rgba(0,0,0,0.3);
+    letter-spacing: 0.03cm;
+    text-align: left;
+    padding-top: 8cm;
+    padding-left: 6cm;
+    display: inline-block;
+    size: 3cm;
+    color: #4233b4;
+    
+}
+
+.navbar {
+ 
+    background-color: #4233b4 ;
+    width: 100%;
+    
+}
+
+
+
+.navbar-light {
+    background-color: #4233b4;
+
+   
+}
+a.nav-link, a.navbar-brand{
+color: #dbb6e2!important;
+}
+a.nav-link.active {
+    color: white!important;
+}
+h2 {
+    font-family: 'Raleway', sans-serif;
+    text-shadow: 2px 4px 3px rgba(0,0,0,0.3);
+    letter-spacing: 0.03cm;
+    text-align: center;
+    size: 3cm;
+    color: #4233b4;
+    padding-top: 7cm;
+    padding-bottom: 2cm;
+
+}
+h3 {
+    font-family: 'Raleway', sans-serif;
+    text-shadow: 2px 4px 3px rgba(0,0,0,0.3);
+    letter-spacing: 0.03cm;
+    text-align: center;
+    size: 3cm;
+    color: #4233b4;
+    padding-top: 3cm;
+    padding-bottom: 2cm;
+}
+
+
+blockquote p {
+    color: #dbb6e2;
+    font-size: 0.5cm;
+    padding-left: 1cm;
+	border-left: 0.1cm solid #dbb6e2;
+    font-weight: 300;
+    margin-left: 3cm;
+    margin-right: 3cm;
+    background-color: #4233b4;
+    background-position: center;
+}
+
+
+h3 {
+    font-family: 'Raleway', sans-serif;
+    text-shadow: 2px 4px 3px rgba(0,0,0,0.3);
+    letter-spacing: 0.03cm;
+    text-align: center;
+    color: #4233b4;
+    padding-bottom: 1cm;
+    padding-top: 3cm;
+}
+.bi-github, .bi-mailbox2  {
+    color: #dbb6e2;
+    padding-bottom: 2cm;
+    display: flex;
+
+ }
+ .contacts {
+    background-color: #4233b4 ;
+ }
+ .contacts p {
+     color: #dbb6e2;
+ }
+ .container h5{
+    font-family: 'Raleway', sans-serif;
+    text-shadow: 2px 4px 3px rgba(0,0,0,0.3);
+    letter-spacing: 0.03cm;
+  padding-left: 1cm;
+   padding-top: 1cm;
+ }
+
+
+ .album-photo {
+    margin-left: 1cm;
+    margin-right: 1cm;
+    margin-top: 1cm ;
+ }
+
+ .bi-emoji-smile {
+     color: #4233b4 ;
+ }
+
+
+
+
